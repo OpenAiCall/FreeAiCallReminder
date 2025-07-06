@@ -1,5 +1,5 @@
  # FreeAiCallReminder：电话提醒、电话通知
-智能提醒，智能语音，智能通知，智能IVR交互，电话提醒，电话通知，定时通知，智能语音交互，ASR，TTS，Call Center, Contact Center,IVR，AI,TTS,ASR,RAG,大模型，人工智能，呼叫中心，联络中心,Robot,large model robot，让重要事项不再遗漏!!!!
+智能提醒，智能语音，智能通知，智能IVR交互，电话提醒，电话通知，定时通知，智能语音交互，ASR，TTS，Call Center, Contact Center,IVR，AI,TTS,ASR,RAG,大模型，人工智能，呼叫中心，联络中心,Robot,large model robot，让重要事项不再遗漏!!!!!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
